@@ -44,8 +44,8 @@ class _UiSettings(BaseSettings):
     title: str = "Contoso"
     logo: Optional[str] = None
     chat_logo: Optional[str] = None
-    chat_title: str = "Upload or Describe your Crystal here"
-    chat_description: str = "This is your complete guide to Crystal Identification and Metaphysical use."
+    chat_title: str = "Your KAF Ambassador"
+    chat_description: str = "Sustainability, Nutritionally, Ethically find out why Krill is a Super Food."
     favicon: str = "/favicon.ico"
     show_share_button: bool = True
 
