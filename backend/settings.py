@@ -44,8 +44,8 @@ class _UiSettings(BaseSettings):
     title: str = "Contoso"
     logo: Optional[str] = None
     chat_logo: Optional[str] = None
-    chat_title: str = "Start chatting"
-    chat_description: str = "This chatbot is configured to answer your questions"
+    chat_title: str = "Upload or Describe your Crystal here"
+    chat_description: str = "This is your complete guide to Crystal Identification and Metaphysical use."
     favicon: str = "/favicon.ico"
     show_share_button: bool = True
 
